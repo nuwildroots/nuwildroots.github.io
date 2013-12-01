@@ -5,6 +5,7 @@ $(document).ready(function() {
 		});
 });
 
+$(document).ready(function() {
 	controller.addTween('#fade', 
 	    TweenMax.from($('#fade'), .5, {css:{opacity:0}}));
-
+});
