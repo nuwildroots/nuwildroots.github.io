@@ -7,14 +7,6 @@ body {
   background-image:url('paper.jpg');
 }
 
-#fade {
-	display: block;
-	max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2000px;
-}
-
 #top-menu {
     position: fixed;
     left: 0;
@@ -45,4 +37,19 @@ body {
 	color:#000000;
 	margin-top: 17px;
 	text-align: center;
+}
+
+#fade {
+	display: block;
+	max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+#gif {
+	display: block;
+	max-width:700px;
+	margin-left: auto;
+	margin-right:auto;
 }
