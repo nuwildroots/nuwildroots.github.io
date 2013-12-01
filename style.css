@@ -39,4 +39,6 @@ body {
 #top-menu ul li a {
 	display:block;
 	width:100px;
+	text-decoration: none;
+	color:#000000;
 }
