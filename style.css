@@ -6,3 +6,9 @@ margin:auto;
 body {
   background-image:url('paper.jpg');
 }
+
+#fade {
+	display: block;
+    margin-left: auto;
+    margin-right: auto; }
+}
