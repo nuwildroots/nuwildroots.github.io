@@ -23,7 +23,7 @@ body {
     height:50px;
 }
 
-ul {
+#top-menu ul {
 	list-style-type:none;
 	margin:0;
 	padding:0;
@@ -33,4 +33,10 @@ ul {
 	text-decoration: none;
 	font-family: "helvetica";
 	font-weight: bold;
+	float: left;
+}
+
+#top-menu ul li a {
+	display:block;
+	width:60px;
 }
