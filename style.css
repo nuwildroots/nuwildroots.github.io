@@ -4,5 +4,5 @@ margin:auto;
 }
 
 body {
-  background-image:"paper.jpg";
+  background-image:url('paper.jpg');
 }
