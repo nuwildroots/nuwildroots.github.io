@@ -65,12 +65,13 @@ body {
 	max-width:700px;
 	margin-left: auto;
 	margin-right:40px;
+	margin-top: 100px;
 }
 
 #news {
 	display: inline-block;
 	left:45%;
-	padding-top:0px;
+	padding-top:8px;
 	text-align: center;
 	font-size:30px;
 	font-family: 'Open Sans', sans-serif;
@@ -82,7 +83,7 @@ body {
 #newsText {
 	font-family: "helvetica";
 	margin-left:10%;
-	margin-top: 50px;
+	margin-top: 100px;
 }
 
 #newsText a {
