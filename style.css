@@ -62,6 +62,7 @@ body {
 }
 
 #news {
+	display: inline-block;;
 	padding-top:60px;
 	text-align: center;
 	font-size:30px;
@@ -72,6 +73,7 @@ body {
 }
 
 #about {
+	display: inline-block;
 	padding-top: 60px;
 	text-align: center;
 	font-size: 30px;
@@ -82,6 +84,7 @@ body {
 }
 
 #contact {
+	display: inline-block;
 	padding-top: 60px;
 	text-align: center;
 	font-size:30px;
