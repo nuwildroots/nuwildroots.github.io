@@ -71,7 +71,7 @@ body {
 #news {
 	display: inline-block;
 	left:45%;
-	padding-top:140px;
+	padding-top:150px;
 	text-align: center;
 	font-size:30px;
 	font-family: 'Open Sans', sans-serif;
@@ -104,7 +104,7 @@ body {
 #about {
 	display: inline-block;
 	left:45%;
-	padding-top: 140px;
+	padding-top: 150px;
 	text-align: center;
 	font-size: 30px;
 	font-family: 'Open Sans', sans-serif;
@@ -138,4 +138,13 @@ body {
     position: absolute;
     top: 2300px;
     z-index: 1;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  position: fixed;
+  margin-left: 300px;
+  bottom: 0px;
+  height:20px;
 }
