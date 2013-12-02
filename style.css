@@ -75,7 +75,7 @@ body {
 
 #newsText {
 	font-family: "helvetica";
-	left:10%;
+	margin-left:10%;
 }
 
 #newsText a {
@@ -100,8 +100,8 @@ body {
 	font-family: "helvetica";
 	top:1600px;
 	margin-top: 150px;
-	left:10%;
-	right:10%;
+	margin-left:10%;
+	margin-right:10%;
 }
 
 #aboutText h4 {
