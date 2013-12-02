@@ -162,11 +162,9 @@ body {
     top: 2600px;
 }
 
-#social {
-	max-width: 130px;
-	margin-top: 300px;
-	margin-bottom: 300px;
-	margin-left: 100px;
+#carrot {
+	max-width: 1000px;
+
 }
 
 footer {
