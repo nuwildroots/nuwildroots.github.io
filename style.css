@@ -62,7 +62,8 @@ body {
 }
 
 #news {
-	display: inline-block;;
+	display: inline-block;
+	left:45%;
 	padding-top:60px;
 	text-align: center;
 	font-size:30px;
