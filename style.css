@@ -79,19 +79,8 @@ body {
 }
 
 #newsText a {
-	text-decoration: none;
+	text-decoration: underline;
 	color:#282220;  
-}
-
-#aboutText {
-	font-family: "helvetica";
-	top:1600px;
-	margin-top: 150px;
-}
-
-#aboutText h3 {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
 }
 
 #about {
@@ -104,6 +93,17 @@ body {
 	color:#282220;  
     position: absolute;
     top: 1450px;
+}
+
+#aboutText {
+	font-family: "helvetica";
+	top:1600px;
+	margin-top: 150px;
+}
+
+#aboutText h4 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
 }
 
 #contact {
