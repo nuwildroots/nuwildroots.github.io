@@ -62,16 +62,25 @@ body {
 }
 
 #news {
+	margin-top:50px;
+	font-family: 'Open Sans', sans-serif;
+	color:#282220;  
     position: absolute;
     top: 2000px;
 }
 
 #about {
+	margin-top: 50px;
+	font-family: 'Open Sans', sans-serif;
+	color:#282220;  
     position: absolute;
     top: 3000px;
 }
 
 #contact {
+	margin-top: 50px;
+	font-family: 'Open Sans', sans-serif;
+	color:#282220;  
     position: absolute;
     top: 4000px;
 }
