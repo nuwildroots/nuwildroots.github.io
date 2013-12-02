@@ -143,7 +143,7 @@ body {
 footer {
   text-align: center;
   font-family: 'Helvetica', sans-serif;
-  position: absolute;
+  display: inline-block;
   bottom: 0px;
   top:2300;
 }
