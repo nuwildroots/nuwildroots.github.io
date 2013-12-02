@@ -17,6 +17,7 @@ body {
     border-bottom-width:3px;
     border-bottom-color:#282220;  
     opacity: 0.9;
+    background-image:url('paper.jpg');
 }
 
 #top-menu ul {
