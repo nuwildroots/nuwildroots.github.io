@@ -70,7 +70,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	color:#282220;  
     position: absolute;
-    top: 770px;
+    top: 900px;
 }
 
 #about {
@@ -82,7 +82,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	color:#282220;  
     position: absolute;
-    top: 1400px;
+    top: 1600px;
 }
 
 #contact {
@@ -94,5 +94,5 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	color:#282220;  
     position: absolute;
-    top: 2100px;
+    top: 2300px;
 }
