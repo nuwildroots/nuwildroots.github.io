@@ -71,7 +71,7 @@ body {
 #news {
 	display: inline-block;
 	left:45%;
-	padding-top:160px;
+	padding-top:0px;
 	text-align: center;
 	font-size:30px;
 	font-family: 'Open Sans', sans-serif;
@@ -84,7 +84,7 @@ body {
 #newsText {
 	font-family: "helvetica";
 	margin-left:10%;
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
 #newsText a {
