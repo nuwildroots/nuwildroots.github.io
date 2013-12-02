@@ -146,12 +146,11 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	color:#282220;  
     position: absolute;
-    top: 2300px;
-    z-index: 1;
+    top: 2400px;
 }
 
 #social {
-	max-width: 90px;
+	max-width: 130px;
 	margin-top: 300px;
 }
 
