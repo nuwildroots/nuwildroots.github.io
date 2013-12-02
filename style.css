@@ -84,6 +84,7 @@ body {
 #newsText {
 	font-family: "helvetica";
 	margin-left:10%;
+	margin-top: 60px;
 }
 
 #newsText a {
