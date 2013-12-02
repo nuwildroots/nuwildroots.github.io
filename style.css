@@ -132,6 +132,7 @@ body {
 	z-index: -1;
 	margin-top: 100px;
 	max-width: 300px;
+	float:right;
 }
 
 #contact {
