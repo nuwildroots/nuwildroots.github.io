@@ -73,6 +73,10 @@ body {
     top: 900px;
 }
 
+#newsText {
+	font-family: "helvetica";
+}
+
 #about {
 	display: inline-block;
 	left:45%;
