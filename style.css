@@ -126,6 +126,14 @@ body {
 	font-size: 18px;
 }
 
+#eggplant {
+	opacity: .7;
+	display: absolute;
+	z-index: -1;
+	margin-top: 100px;
+	float: right;
+}
+
 #contact {
 	display: inline-block;
 	left:42%;
