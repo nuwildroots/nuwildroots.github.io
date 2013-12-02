@@ -162,6 +162,11 @@ body {
     top: 2600px;
 }
 
+#contactinfo {
+	margin-top: 300px;
+	margin-left: 100px;
+}
+
 #contactinfo h3 {
 	font-family: "helvetica";
 	font-size: 22px;
@@ -171,6 +176,8 @@ body {
 	font-family: "helvetica";
 	font-weight: bold;
 	font-size:18px;
+	text-decoration: none;
+	color: #282220;
 }
 
 #carrot {
