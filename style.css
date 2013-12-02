@@ -77,6 +77,10 @@ body {
 	font-family: "helvetica";
 }
 
+#aboutText {
+	font-family: "helvetica";
+}
+
 #about {
 	display: inline-block;
 	left:45%;
