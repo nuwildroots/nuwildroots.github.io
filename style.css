@@ -126,6 +126,9 @@ body {
 	font-weight: bold;
 	z-index: 1;
 }
+#aboutText1 {
+
+}
 
 #eggplant {
 	opacity: .7;
@@ -135,7 +138,7 @@ body {
 	margin-right: 20px;
 	max-width: 300px;
 	float:right;
-	margin-left:0px;
+	margin-left:-100px;
 }
 
 #contact {
