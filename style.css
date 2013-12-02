@@ -18,6 +18,7 @@ body {
     border-bottom-color:#282220;  
     opacity: 0.8;
     background-image:url('paper.jpg');
+    z-index: 2;
 }
 
 #top-menu ul {
@@ -77,6 +78,7 @@ body {
 	color:#282220;  
     position: absolute;
     top: 940px;
+    z-index: 1;
 }
 
 #newsText {
@@ -104,6 +106,7 @@ body {
 	color:#282220;  
     position: absolute;
     top: 1560px;
+    z-index: 1;
 }
 
 #aboutText {
@@ -129,4 +132,5 @@ body {
 	color:#282220;  
     position: absolute;
     top: 2300px;
+    z-index: 1;
 }
