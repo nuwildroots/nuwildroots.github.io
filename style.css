@@ -62,10 +62,10 @@ body {
 }
 
 #gif {
-	display: block;
+	float:right;
 	max-width:700px;
 	margin-left: auto;
-	margin-right:auto;
+	margin-right:40px;
 }
 
 #news {
