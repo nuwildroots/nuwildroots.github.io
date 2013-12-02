@@ -121,18 +121,19 @@ body {
 }
 
 #aboutText h4 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	font-size: 18px;
+	font-weight: bold;
 }
 
 #eggplant {
 	opacity: .7;
 	display: absolute;
 	z-index: -1;
-	margin-top: 100px;
+	margin-top: 400px;
 	max-width: 300px;
 	float:right;
-	margin-right:-200px;
+	margin-left:-200px;
 }
 
 #contact {
