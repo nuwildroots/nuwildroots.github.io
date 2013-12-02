@@ -143,8 +143,8 @@ body {
 footer {
   text-align: center;
   font-family: 'Helvetica', sans-serif;
-  position: fixed;
+  position: absolute;
   margin-left: 300px;
   bottom: 0px;
-  height:20px;
+  top:2900;
 }
