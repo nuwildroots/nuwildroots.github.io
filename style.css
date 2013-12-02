@@ -62,9 +62,9 @@ body {
 
 #gif {
 	float:right;
-	max-width:700px;
-	margin-left: 10px;
-	margin-right:10px;
+	max-width:400px;
+	margin-left: 0px;
+	margin-right:0px;
 	margin-top: 430px;
 }
 
