@@ -165,6 +165,8 @@ body {
 #social {
 	max-width: 130px;
 	margin-top: 300px;
+	margin-bottom: 300px;
+	margin-left: 100px;
 }
 
 footer {
