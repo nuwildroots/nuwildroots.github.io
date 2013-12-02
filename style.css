@@ -140,7 +140,7 @@ body {
 #contact {
 	display: inline-block;
 	left:42%;
-	padding-top: 160px;
+	padding-top: 6px;
 	text-align: center;
 	font-size:30px;
 	font-family: 'Open Sans', sans-serif;
@@ -148,6 +148,11 @@ body {
     position: absolute;
     top: 2300px;
     z-index: 1;
+}
+
+#social {
+	max-width: 90px;
+	margin-top: 300px;
 }
 
 footer {
