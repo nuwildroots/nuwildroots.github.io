@@ -41,6 +41,7 @@ body {
 	margin-top: 17px;
 	text-align: center;
 	opacity: 1;
+	z-index: 1;
 }
 
 #top-menu ul li a:hover {
@@ -69,21 +70,20 @@ body {
 }
 
 #news {
-	display: inline-block;
-	left:45%;
-	padding-top:8px;
-	text-align: center;
-	font-size:30px;
-	font-family: 'Open Sans', sans-serif;
-	color:#282220;  
-    position: absolute;
-    top: 940px;
+float: center;
+margin-left: 42%;
+padding-top: 8px;
+text-align: center;
+font-size: 30px;
+font-family: 'Open Sans', sans-serif;
+color: #282220;
+z-index: 2;
 }
 
 #newsText {
 	font-family: "helvetica";
 	margin-left:10%;
-	margin-top: 410px;
+	margin-top: 110px;
 }
 
 #newsText a {
@@ -102,20 +102,19 @@ body {
 }
 
 #about {
-	display: inline-block;
-	left:45%;
-	padding-top: 8px;
-	text-align: center;
-	font-size: 30px;
-	font-family: 'Open Sans', sans-serif;
-	color:#282220;  
-    position: absolute;
-    top: 1800px;
+float: center;
+margin-left: 42%;
+padding-top: 8px;
+text-align: center;
+font-size: 30px;
+font-family: 'Open Sans', sans-serif;
+color: #282220;
+z-index: 2;
 }
 
 #aboutText {
 	font-family: "helvetica", sans-serif;
-	margin-top: 350px;
+	margin-top: 50px;
 	margin-left:10%;
 	margin-right:10%;
 }
@@ -150,20 +149,19 @@ body {
 }
 
 #contact {
-	display: inline-block;
-	left:42%;
-	padding-top: 8px;
-	text-align: center;
-	font-size:30px;
-	font-family: 'Open Sans', sans-serif;
-	color:#282220;  
-    position: absolute;
-    top: 2600px;
+float: center;
+margin-left: 42%;
+padding-top: 8px;
+text-align: center;
+font-size: 30px;
+font-family: 'Open Sans', sans-serif;
+color: #282220;
+z-index: 2;
 }
 
 #contactinfo {
 	text-align: center;
-	margin-top: 300px;
+	margin-top: 0px;
 	margin-left: -55px;
 }
 
