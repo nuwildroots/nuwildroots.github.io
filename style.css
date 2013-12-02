@@ -162,8 +162,20 @@ body {
     top: 2600px;
 }
 
+#contactinfo h3 {
+	font-family: "helvetica";
+	font-size: 22px;
+}
+
+#contactinfo a {
+	font-family: "helvetica";
+	font-weight: bold;
+	font-size:18px;
+}
+
 #carrot {
 	max-width: 1000px;
+	margin-left:100px;
 
 }
 
