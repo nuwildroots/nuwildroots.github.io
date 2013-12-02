@@ -89,6 +89,10 @@ body {
 	color:#282220;  
 }
 
+#newsText p {
+	font-size: 18px;
+}
+
 #about {
 	display: inline-block;
 	left:45%;
