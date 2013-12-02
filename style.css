@@ -126,8 +126,17 @@ body {
 	font-weight: bold;
 	z-index: 1;
 }
+
 #aboutText1 {
 
+}
+
+#aboutText2 {
+	padding-right: 40px;
+}
+
+#aboutText3 {
+	padding-right: 80px;
 }
 
 #eggplant {
