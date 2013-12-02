@@ -42,6 +42,10 @@ body {
 	opacity: 1;
 }
 
+#top-menu ul li a:hover {
+	color:#5c5552;
+} 
+
 #fade {
 	display: block;
 	max-width: 880px;
