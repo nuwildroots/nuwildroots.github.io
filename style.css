@@ -157,7 +157,7 @@ body {
 	font-size:30px;
 	font-family: 'Open Sans', sans-serif;
 	color:#282220;  
-    position: absolute;
+    position: fixed;
     top: 2600px;
 }
 
