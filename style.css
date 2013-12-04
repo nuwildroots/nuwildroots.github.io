@@ -189,10 +189,7 @@ body {
 }
 
 footer {
-  text-align: center;
   font-family: 'Helvetica', sans-serif;
-  display: inline-block;
-  bottom: 0px;
+  bottom: inherit;
   top:2500;
-  margin-left:510px;
 }
