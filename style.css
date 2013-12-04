@@ -117,7 +117,8 @@ body {
 	font-family: "helvetica", sans-serif;
 	margin-top: 350px;
 	margin-left:10%;
-	margin-right:10%;
+	float:left;
+	max-width:68%;
 }
 
 #aboutText h4 {
@@ -140,13 +141,13 @@ body {
 }
 
 #eggplant {
-	display: absolute;
 	z-index: -1;
-	margin-top: 320px;
+	margin-top: 338px;
 	margin-right: 20px;
 	max-width: 300px;
-	float:right;
-	margin-left:-100px;
+	float:left;
+	margin-left:-85px;
+	display:inline-block;
 }
 
 #contact {
