@@ -152,7 +152,7 @@ body {
 
 #contact {
 	display: inline-block;
-	left:42%;
+	left:44.5%;
 	padding-top: 8px;
 	text-align: center;
 	font-size:30px;
@@ -164,8 +164,8 @@ body {
 
 #contactinfo {
 	text-align: center;
-	margin-top: 300px;
-	margin-left: -55px;
+	margin-top: 87%;
+	padding-top:20px;
 }
 
 #contactinfo h3 {
