@@ -1,6 +1,7 @@
 h1 {
 font-family:"helvetica";
 margin:auto;
+font-weight: 800;
 }
 
 body {
@@ -41,10 +42,12 @@ body {
 	margin-top: 17px;
 	text-align: center;
 	opacity: 1;
+	font-weight: 800;
 }
 
 #top-menu ul li a:hover {
 	color:#5c5552;
+	font-weight: 800;
 } 
 
 #fade {
@@ -58,6 +61,7 @@ body {
 	text-align: center;
 	position:absolute;
 	font-family: "Open Sans", sans-serif;
+	font-weight: 800;
 }
 
 #gif {
@@ -78,6 +82,7 @@ body {
 	color:#282220;  
     position: absolute;
     top: 940px;
+    font-weight: 800;
 }
 
 #newsText {
@@ -111,6 +116,7 @@ body {
 	color:#282220;  
     position: absolute;
     top: 1800px;
+    font-weight: 800;
 }
 
 #aboutText {
@@ -160,6 +166,7 @@ body {
 	color:#282220;  
     position: absolute;
     top: 2600px;
+    font-weight: 800;
 }
 
 #contactinfo {
