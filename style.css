@@ -179,6 +179,11 @@ body {
 	font-size: 22px;
 }
 
+#contactinfo h4 {
+	font-family: "helvetica";
+	font-size: 18px;
+}
+
 #contactinfo a {
 	font-family: "helvetica";
 	font-weight: bold;
